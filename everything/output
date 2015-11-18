@@ -1,0 +1,12 @@
+         1000007 function calls in 1.805 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+  1000001    1.082    0.000    1.082    0.000 <ipython-input-10-2816b731c858>:4(<genexpr>)
+        1    0.723    0.723    1.805    1.805 {built-in method sum}
+        1    0.000    0.000    1.805    1.805 {built-in method exec}
+        1    0.000    0.000    1.805    1.805 <ipython-input-10-2816b731c858>:6(compute_sum)
+        1    0.000    0.000    1.805    1.805 <string>:1(<module>)
+        1    0.000    0.000    0.000    0.000 <ipython-input-10-2816b731c858>:3(square)
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
