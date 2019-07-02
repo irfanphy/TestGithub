@@ -1,2 +1,2 @@
 testing latex
-$ \lambda $
+$$ \lambda $$
