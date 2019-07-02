@@ -1,2 +1,4 @@
 testing latex
-$$ \lambda $$
+'''latex
+\lambda
+'''
